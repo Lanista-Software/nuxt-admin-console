@@ -19,7 +19,7 @@
     },
     "name": {
       "required": true,
-      "type": "string"
+      "type": "text"
     },
     "price_label": {
       "required": true,
@@ -31,5 +31,6 @@
   },
   "i18n": true,
   "id": "billing-plan",
-  "kind": "collection"
+  "kind": "collection",
+  "name": "Billing Plan"
 }
